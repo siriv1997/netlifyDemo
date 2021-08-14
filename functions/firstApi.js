@@ -1,3 +1,5 @@
-exports.handler = async (event) => {
-    return 'Hello Netlify' ;
+exports.handler = async () => {
+    return {
+        statusCode:200,
+        body:'Hello Netlify'} ;
 };
