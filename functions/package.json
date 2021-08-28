@@ -1,0 +1,7 @@
+{
+    "name": "functions",
+    "dependencies": {
+      "faunadb": "^2.13.1"
+    }
+  }
+  
